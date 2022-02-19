@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## Creando una lista
+* item 1
+  * subitem 1
+* item 2
+* item 3
+
